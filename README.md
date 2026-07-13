@@ -26,6 +26,11 @@
 
 ## 2. 사용한 기술 및 툴 아키텍처
 
+[시스템 아키텍처]
+Google Calendar (Trigger) ➔ Notion DB (Action 1) ➔ OpenAI (Action 2: 맞춤 멘트 생성) ➔ Make Router (Filter 조건 분기)
+├─ Path 1 [타이틀: '운동'] ➔ Discord #오운완 채널 (Action 3)
+└─ Path 2 [타이틀: '공부'] ➔ Discord #열공인증 채널 (Action 4)
+
 글로벌 대표 노코드 RPA 플랫폼인 Make와 Zapier 두 가지 활용하여 시스템 비교
 
 - **Trigger (인입):** Google Sheets
