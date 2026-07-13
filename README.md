@@ -66,8 +66,10 @@
 
 <img width="865" height="801" alt="image" src="https://github.com/user-attachments/assets/91a46839-c00a-4d18-8a93-6a353be2dd14" />
 
+<img width="1475" height="934" alt="image" src="https://github.com/user-attachments/assets/b0281790-a0ad-42a5-834e-169d5267c344" />
 
-**▲ 사진 3: Zapier 전체 워크플로우 맵**
+
+**▲ 사진 3:Zapier 전체 워크플로우 맵 및 성공 증명 캡쳐**
 
 ### 3.3 동적 데이터 매핑 및 디스코드 액션 연동
 
