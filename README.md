@@ -58,11 +58,13 @@
 - Make 설정: Router 모듈을 추가하여 라우팅 경로를 유연하게 분기하였으며 필터 기능을 통해 각 경로의 진입 조건을 간편하게 설정
 - Zapier 설정: 유료 액션인 Paths 모듈을 활용하여 툴 자체에 '이상/이하' 연산자가 없는 제약 사항을 우회하기 위해, 합격 경로(Path A)에는 Greater than 80 or Equals 80 조합을 적용하고 미달 경로(Path B)에는 Less than 80 단일 수식을 적용
 
-!image.png
+<img width="1484" height="827" alt="image" src="https://github.com/user-attachments/assets/009e9772-d449-422f-adf8-d7f6be6de961" />
+
 
 **▲ 사진 2: Make 전체 워크플로우 맵**
 
-!스크린샷 2026-07-12 102421.png
+<img width="865" height="801" alt="image" src="https://github.com/user-attachments/assets/91a46839-c00a-4d18-8a93-6a353be2dd14" />
+
 
 **▲ 사진 3: Zapier 전체 워크플로우 맵**
 
@@ -96,15 +98,18 @@
 
 두 로봇이 구글 시트를 주기적으로 순찰한 뒤, 데이터 유효성 검증을 거쳐 정확한 디스코드 채널로 메시지를 분리 발송한 것을 확인함(make와 zapier 둘 다 첨부)
 
-!image.png
+<img width="379" height="480" alt="image" src="https://github.com/user-attachments/assets/19044304-cd53-42ed-841d-cb773ed3b86f" />
+
 
 **▲ 사진 4: 채널 #합격과 #미달**
 
-!스크린샷 2026-07-12 111307.png
+<img width="630" height="763" alt="image" src="https://github.com/user-attachments/assets/fa106e63-1e83-4896-9945-32a0120f70e1" />
+
 
 **▲ 사진 5: #합격 채널 수신 화면: 80점 이상 데이터만 분류되어 발송됨 (Integromat: make 봇, zapier: Zapier 봇)**
 
-!image.png
+<img width="591" height="465" alt="image" src="https://github.com/user-attachments/assets/d56be0e7-a339-4bfb-b3e4-7c668105ca4e" />
+
 
 **▲ 사진 6: #미달 채널 수신 화면: 80점 미만 데이터만 분류되어 발송됨 (Integromat: make 봇, zapier: Zapier 봇)**
 
@@ -180,7 +185,8 @@
 - 시각적 직관성 및 디버깅 유리: Google Calendar ➔ Notion ➔ Router ➔ Discord (2개 채널)로 이어지는 다중 연동 구조를 2차원 캔버스 형태의 노드로 한눈에 조망할 수 있습니다. 각 모듈의 데이터 흐름을 시각적으로 추적하기 쉬워 초기 빌드 및 디버깅 난이도가 낮음
 - 풍부한 텍스트 연산자 제공: 캘린더 제목에서 특정 키워드를 필터링할 때, 대소문자나 띄어쓰기 문제를 우회할 수 있는 Contains (case-insensitive) 같은 강력하고 직관적인 텍스트 연산자를 기본 제공하여 조건부 필터링 레이어를 견고하게 구축할 수 있음
 
-!스크린샷 2026-07-13 084106.png
+<img width="1588" height="730" alt="image" src="https://github.com/user-attachments/assets/3fea97b8-4a45-4074-b4b3-3d747b1bde42" />
+
 
 **▲ 사진 1: 워크플로우 구성 화면**
 
