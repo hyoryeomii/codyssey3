@@ -74,7 +74,8 @@
 
 **▲ 사진 2: Make 전체 워크플로우 맵**
 
-<img width="865" height="801" alt="image" src="https://github.com/user-attachments/assets/91a46839-c00a-4d18-8a93-6a353be2dd14" />
+<img width="920" height="686" alt="image" src="https://github.com/user-attachments/assets/db2ea0a4-c012-4b4c-b50d-bf810ae62b58" />
+
 
 <img width="1475" height="934" alt="image" src="https://github.com/user-attachments/assets/b0281790-a0ad-42a5-834e-169d5267c344" />
 
