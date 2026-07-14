@@ -79,6 +79,8 @@
 
 <img width="1475" height="934" alt="image" src="https://github.com/user-attachments/assets/b0281790-a0ad-42a5-834e-169d5267c344" />
 
+<img width="1434" height="401" alt="image" src="https://github.com/user-attachments/assets/c7c3025c-5baa-4d14-8942-2f8f5bd53049" />
+
 
 **▲ 사진 3:Zapier 전체 워크플로우 맵 및 성공 증명 캡쳐**
 
